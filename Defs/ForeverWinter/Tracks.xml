@@ -1,0 +1,148 @@
+<Defs>
+	
+   <!-- Ambient Tracks -->	
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- A Blinding Flame</label>
+		<defName>ME_ForeverWinter_A_Blinding_Flame</defName>
+		<clipPath>MusicExpanded/ForeverWinter/A Blinding Flame</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Ashfall</label>
+		<defName>ME_ForeverWinter_Ashfall</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Ashfall</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Beacon</label>
+		<defName>ME_ForeverWinter_Beacon</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Beacon</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Beyond the Burning Skies</label>
+		<defName>ME_ForeverWinter_Beyond_the_Burning_Skies</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Beyond the Burning Skies</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Black Echo</label>
+		<defName>ME_ForeverWinter_Black_Echo</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Black Echo</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Cyanide Sunrise</label>
+		<defName>ME_ForeverWinter_Cyanide_Sunrise</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Cyanide Sunrise</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Descent to Averno</label>
+		<defName>ME_ForeverWinter_Descent_to_Averno</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Descent to Averno</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Easy Day</label>
+		<defName>ME_ForeverWinter_Easy_Day</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Easy Day</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Eternal Dusk</label>
+		<defName>ME_ForeverWinter_Eternal_Dusk</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Eternal Dusk</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Inner Candles</label>
+		<defName>ME_ForeverWinter_Inner_Candles</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Inner Candles</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Into The Storm</label>
+		<defName>ME_ForeverWinter_Into_The_Storm</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Into The Storm</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Lost Souls</label>
+		<defName>ME_ForeverWinter_Lost_Souls</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Lost Souls</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Nocturne</label>
+		<defName>ME_ForeverWinter_Nocturne</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Nocturne</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Rust and Remorse</label>
+		<defName>ME_ForeverWinter_Rust_and_Remorse</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Rust and Remorse</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Secret Prayer</label>
+		<defName>ME_ForeverWinter_Secret_Prayer</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Secret Prayer</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Sheltered in Shadow</label>
+		<defName>ME_ForeverWinter_Sheltered_in_Shadow</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Sheltered in Shadow</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Visions of the Abyss</label>
+		<defName>ME_ForeverWinter_Visions_of_the_Abyss</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Visions of the Abyss</clipPath>
+	</MusicExpanded.TrackDef>	   
+
+   <!-- Main Menu and Credits -->		
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- The Blackout (The Forever Winter Suite)</label>
+		<defName>ME_ForeverWinter_The_Blackout</defName>
+		<clipPath>MusicExpanded/ForeverWinter/The Blackout (The Forever Winter Suite)</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+ 
+   <!-- Battle Tracks Small -->		
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Trenches</label>
+		<defName>ME_ForeverWinter_Trenches</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Trenches</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Geometry of Murder</label>
+		<defName>ME_ForeverWinter_Geometry_of_Murder</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Geometry of Murder</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+    
+   <!-- Battle Tracks Medium -->		
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Future Lost</label>
+		<defName>ME_ForeverWinter_Future_Lost</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Future Lost</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Extinction Protocol</label>
+		<defName>ME_ForeverWinter_Extinction_Protocol</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Extinction Protocol</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Large -->		
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Mother</label>
+		<defName>ME_ForeverWinter_Mother</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Mother</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Last Stand</label>
+		<defName>ME_ForeverWinter_Last_Stand</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Last Stand</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Legendary -->	  
+	<MusicExpanded.TrackDef>
+		<label>Forever Winter- Scar of the Earth</label>
+		<defName>ME_ForeverWinter_Scar_of_the_Earth</defName>
+		<clipPath>MusicExpanded/ForeverWinter/Scar of the Earth</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	
+</Defs>

@@ -1,0 +1,42 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_ForeverWinter</defName>
+        <label>Music Expanded: The Forever Winter</label>
+		<iconPath>UI/Icons/ForeverWinter</iconPath>
+        <description>Contains the full public release OST which is a partial track list, it features combat tracks and the main menu theme.</description>
+		<tracks>		
+			<!-- Ambient Tracks -->		
+			<li>ME_ForeverWinter_A_Blinding_Flame</li>
+			<li>ME_ForeverWinter_Ashfall</li>
+			<li>ME_ForeverWinter_Beacon</li>
+			<li>ME_ForeverWinter_Beyond_the_Burning_Skies</li>
+			<li>ME_ForeverWinter_Black_Echo</li>
+			<li>ME_ForeverWinter_Cyanide_Sunrise</li>
+			<li>ME_ForeverWinter_Descent_to_Averno</li>
+			<li>ME_ForeverWinter_Easy_Day</li>
+			<li>ME_ForeverWinter_Eternal_Dusk</li>
+			<li>ME_ForeverWinter_Inner_Candles</li>
+			<li>ME_ForeverWinter_Into_The_Storm</li>
+			<li>ME_ForeverWinter_Lost_Souls</li>
+			<li>ME_ForeverWinter_Nocturne</li>
+			<li>ME_ForeverWinter_Rust_and_Remorse</li>
+			<li>ME_ForeverWinter_Scar_of_the_Earth</li>
+			<li>ME_ForeverWinter_Secret_Prayer</li>
+			<li>ME_ForeverWinter_Sheltered_in_Shadow</li>
+			<li>ME_ForeverWinter_Visions_of_the_Abyss</li>				
+
+			<!-- Main Menu/Credits Tracks -->		
+			<li>ME_ForeverWinter_The_Blackout</li>
+			
+			<!-- Battle Tracks Tracks -->	
+			<li>ME_ForeverWinter_Extinction_Protocol</li>			
+			<li>ME_ForeverWinter_Future_Lost</li>
+			<li>ME_ForeverWinter_Geometry_of_Murder</li>
+			<li>ME_ForeverWinter_Last_Stand</li>
+			<li>ME_ForeverWinter_Mother</li>
+			<li>ME_ForeverWinter_Scar_of_the_Earth</li>
+			<li>ME_ForeverWinter_Trenches</li>	
+			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
